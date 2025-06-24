@@ -28,4 +28,6 @@ Este repositório contém os notebooks de extração, limpeza, tratamento e impl
 
 ## Desdobramentos para buscar a viabilidade do modelo
 
-Está prevista uma nova rodada de validação de dados do contrato com a base de dados disponível no Contratos.gov e com a base histórica completa da CGU (de 2010 a 2025), porém, não há garantia de um universo maior do que encontrado nas tentativas anteriores.
+Um nova rodada de validação de dados do contrato com a base de dados disponível no Contratos.gov foi realizada em junho/2025 e, mais uma vez, não foram validados dados suficientes para a criação do modelo de previsão.
+
+Há um relatório entregue à equipe de negócios com a descrição do que foi feito, além dos desafios encontrados. 
